@@ -14,8 +14,6 @@ Output: 4
 
 */
 
-
-
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
