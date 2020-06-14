@@ -23,3 +23,5 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-10. Search Insert Position](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/10.%20Search%20Insert%20Position.cpp)
 
 [Day-11. Sort Colors](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/11.%20%20Sort%20Colors.cpp)
+
+[Day-12. Insert Delete GetRandom O(1)](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/12.%20Insert%20Delete%20GetRandom%20O(1).cpp)
