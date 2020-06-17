@@ -25,3 +25,13 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-11. Sort Colors](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/11.%20%20Sort%20Colors.cpp)
 
 [Day-12. Insert Delete GetRandom O(1)](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/12.%20Insert%20Delete%20GetRandom%20O(1).cpp)
+
+[Day-13. Largest Divisible Subset](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/13.%20Largest%20Divisible%20Subset.cpp)
+
+[Day-14. Cheapest Flights Within K Stops](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/14.%20Cheapest%20Flights%20Within%20K%20Stops.cpp)
+
+[Day-15. Search in a Binary Search Tree](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/15.%20Search%20in%20a%20Binary%20Search%20Tree.cpp)
+
+[Day-16. Validate IP Address](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/16.%20Validate%20IP%20Address.cpp)
+
+[Day-17. Surrounded Regions](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/17.%20Surrounded%20Regions.cpp)
