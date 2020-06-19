@@ -35,3 +35,5 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-16. Validate IP Address](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/16.%20Validate%20IP%20Address.cpp)
 
 [Day-17. Surrounded Regions](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/17.%20Surrounded%20Regions.cpp)
+
+[Day-18. H-Index II](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/18.%20H-Index%20II.cpp)
