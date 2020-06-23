@@ -1,4 +1,4 @@
-# [30-Day-LeetCoding-Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/)
+# 30-Day-LeetCoding-Challenge [(Challenge Link)](https://leetcode.com/explore/featured/card/june-leetcoding-challenge)
 
 With many of us around the world being encouraged to stay indoors and work from home, this was the perfect opportunity for us to focus on studying up for future code interviews. In order to help us stay focused, LeetCode was running the 30-Day LeetCoding Challenge for the month of June. 
 
@@ -42,4 +42,6 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-19. Longest Duplicate Substring](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/19.%20Longest%20Duplicate%20Substring.cpp)
 
 [Day-20. Dungeon Game](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/20.%20Dungeon%20Game.cpp)
+
+[Day-21. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/21.%20Count%20Complete%20Tree%20Nodes.cpp)
 
