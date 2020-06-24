@@ -45,5 +45,7 @@ With many of us around the world being encouraged to stay indoors and work from 
 
 [Day-21. Dungeon Game](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/21.%20Dungeon%20Game.cpp)
 
-[Day-22. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/22.%20Count%20Complete%20Tree%20Nodes.cpp)
+[Day-22. Single Number II](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/22.%20Single%20Number%20II.cpp)
+
+[Day-23. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/23.%20Count%20Complete%20Tree%20Nodes.cpp)
 
