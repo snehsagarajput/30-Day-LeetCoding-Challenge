@@ -41,7 +41,9 @@ With many of us around the world being encouraged to stay indoors and work from 
 
 [Day-19. Longest Duplicate Substring](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/19.%20Longest%20Duplicate%20Substring.cpp)
 
-[Day-20. Dungeon Game](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/20.%20Dungeon%20Game.cpp)
+[Day-20. Permutation Sequence](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/20.%20Permutation%20Sequence.cpp)
 
-[Day-21. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/21.%20Count%20Complete%20Tree%20Nodes.cpp)
+[Day-21. Dungeon Game](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/21.%20Dungeon%20Game.cpp)
+
+[Day-22. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/22.%20Count%20Complete%20Tree%20Nodes.cpp)
 
