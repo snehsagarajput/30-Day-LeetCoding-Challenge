@@ -49,3 +49,4 @@ With many of us around the world being encouraged to stay indoors and work from 
 
 [Day-23. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/23.%20Count%20Complete%20Tree%20Nodes.cpp)
 
+[Day-24. Unique Binary Search Trees](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/24.%20Unique%20Binary%20Search%20Trees.cpp)
