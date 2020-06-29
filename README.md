@@ -50,3 +50,11 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-23. Count Complete Tree Nodes](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/23.%20Count%20Complete%20Tree%20Nodes.cpp)
 
 [Day-24. Unique Binary Search Trees](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/24.%20Unique%20Binary%20Search%20Trees.cpp)
+
+[Day-25. Find the Duplicate Number](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/25.%20Find%20the%20Duplicate%20Number.cpp)
+
+[Day-26. Sum Root to Leaf Numbers](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/26.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)
+
+[Day-27. Perfect Squares](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/27.%20Perfect%20Squares.cpp)
+
+[Day-28. Reconstruct Itinerary](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/28.%20Reconstruct%20Itinerary.cpp)
