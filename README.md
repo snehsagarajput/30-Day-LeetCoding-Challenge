@@ -58,3 +58,7 @@ With many of us around the world being encouraged to stay indoors and work from 
 [Day-27. Perfect Squares](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/27.%20Perfect%20Squares.cpp)
 
 [Day-28. Reconstruct Itinerary](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/28.%20Reconstruct%20Itinerary.cpp)
+
+[Day-29. Unique Paths](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/29.%20Unique%20Paths.cpp)
+
+[Day-30. Word Search II](https://github.com/snehsagarajput/30-Day-LeetCoding-Challenge-June-2020/blob/master/30.Word%20Search%20II.cpp)
